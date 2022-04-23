@@ -4,12 +4,12 @@
 A CRUD Laravel web application to manage contacts
 
 ## Features
--[ ] An index page with a list of existing contacts.
+- [ ] An index page with a list of existing contacts.
 
--[ ] A page with a form for adding new contacts.
+- [ ] A page with a form for adding new contacts.
 
--[ ] A page for showing contact details.
+- [ ] A page for showing contact details.
 
--[ ] Allow editing an existing record
+- [ ] Allow editing an existing record
 
--[ ] Allow deletion of an existing record
+- [ ] Allow deletion of an existing record
